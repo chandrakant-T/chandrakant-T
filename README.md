@@ -2,10 +2,10 @@
 
 ## 🚀 About Me
 - 🎓 BCA student at **Chitkara University, Himachal Pradesh**  
-- 🌐 Building an **Open Courseware** website to provide free educational resources on **HTML, CSS, and Node.js**  
+- 🌐 Build a **Open Courseware** website to provide free educational resources on **HTML, CSS, and Node.js**  
 - 💻 Skilled in **C, HTML, CSS** and exploring **Backend development and Cloud technologies**  
-- 🎯 Aspiring **Google Summer of Code 2025** contributor  
-- 📚 Preparing for a **student exchange program** at **Metropolia University**  
+- 🎯 Aspiring **Google Summer of Code 2026** contributor
+- 📚 Preparing for **Abroad Studies** 
 - 🏆 Hackathon enthusiast | **HackExpo (CTF)** & **Smart India Hackathon** participant  
 
 ## 📈 GitHub Stats
