@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="YOUR_AMAZON_KDP_LINK"><img src="https://img.shields.io/badge/Published_Author-FF9900?style=for-the-badge&logo=amazon&logoColor=black" alt="Amazon Book"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/chandrakant-trivedi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.amazon.in/dp/B0GQY2Y32C"><img src="https://img.shields.io/badge/Published_Author-FF9900?style=for-the-badge&logo=amazon&logoColor=black" alt="Amazon Book"/></a>
+  <a href="mailto:trivedichandrakant559@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -65,5 +65,5 @@
 ---
 
 <p align="center">
-  <i>"Building, learning, and heading toward Germany one commit at a time."</i>
+  <i>"Building and learning."</i>
 </p>
