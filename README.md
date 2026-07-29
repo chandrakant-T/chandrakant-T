@@ -14,7 +14,7 @@
 ### 🎓 About Me
 * 🏫 **Academia:** Pursuing BCA at Chitkara University (5th Sem) — maintaining a **9.29 CGPA**.
 * 📚 **Author:** Published *"[Shashi Tharoor: Between Two Worlds](YOUR_AMAZON_KDP_LINK)"* on Amazon KDP.
-* 🎯 **Goal:** Building strong systems foundations (DSA, Compilers, Cryptography) towards an MS in Computer Science in Germany.
+* 🎯 **Goal:** Building strong systems foundations (DSA, Compilers, Cryptography).
 * 🧪 **Currently Focus:** Enhancing **Mirror** (code sandbox execution engine) and exploring applied cryptography (SHA/AES) & GA4 analytics.
 
 ---
@@ -52,7 +52,7 @@
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Full-Stack+%26+Systems+Developer;Author+of+'Shashi+Tharoor%3A+Between+Two+Worlds';Building+Mirror+%26+RailTrack;Aspiring+MS+CS+Student+(Germany)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Full-Stack+%26+Systems+Developer;Author+of+'Shashi+Tharoor%3A+Between+Two+Worlds';Building+Mirror+%26+RailTrack" alt="Typing SVG" />
 </p>
 
 
