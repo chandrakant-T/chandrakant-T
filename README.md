@@ -52,7 +52,7 @@
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Systems+Developer;Author+of+%27Shashi+Tharoor%3A+Between+Two+Worlds%27;Building+Mirror+%26+RailTrack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=550&lines=Full-Stack+%26+Systems+Developer;Author+of+%27Shashi+Tharoor%3A+Between+Two+Worlds%27" alt="Typing SVG" />
 </p>
 
 
